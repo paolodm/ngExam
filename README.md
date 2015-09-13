@@ -46,15 +46,15 @@
 * How do you resolve resources via state/route and how would you do so?
 * Given 3 nested states, how would you load the most nested one after the root state resolves while allowing the middle state to load asynchronously?
 * What types of directives are there? Angular: element, attribute, class (no one uses class)
-* What is `$scope`?
-* What is `$rootScope`?
+[*] What is `$scope`?
+[*] What is `$rootScope`?
 * What is `"$destroy"`?
-* What's one time binding?
-* When and where would you normally use `.$watch()`?
-* What's a stateful filter vs a stateless filter?
-* What are `.$dirty`, `.$pristine`, `.$valid`, `.$invalid`, and `.$submitted`?
-* What's NgModelController? 
-* What's FormController?
+[*] What's one time binding?
+[*] When and where would you normally use `.$watch()`?
+[*] What's a stateful filter vs a stateless filter?
+[*] What are `.$dirty`, `.$pristine`, `.$valid`, `.$invalid`, and `.$submitted`?
+[*] What's NgModelController? 
+[*] What's FormController?
 * What's ng-model-options and why would you use it?
 * What are `$validators` and `$asyncValidators`?
 * What's the difference between `scope`, `$scope`, and `$rootScope`?
